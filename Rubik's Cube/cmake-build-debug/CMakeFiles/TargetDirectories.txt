@@ -1,0 +1,3 @@
+D:/Prog_2_sem/Rubik's Cube/cmake-build-debug/CMakeFiles/Last_version_of_Cubik.dir
+D:/Prog_2_sem/Rubik's Cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Prog_2_sem/Rubik's Cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir

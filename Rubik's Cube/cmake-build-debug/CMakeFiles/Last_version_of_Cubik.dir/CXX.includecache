@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Prog_2_sem/Rubik's Cube/ALgo.cpp
+ALgo.h
+D:/Prog_2_sem/Rubik's Cube/ALgo.h
+
+D:/Prog_2_sem/Rubik's Cube/ALgo.h
+iostream
+-
+experimental/random
+-
+Cube.h
+D:/Prog_2_sem/Rubik's Cube/Cube.h
+
+D:/Prog_2_sem/Rubik's Cube/Cube.cpp
+Cube.h
+D:/Prog_2_sem/Rubik's Cube/Cube.h
+
+D:/Prog_2_sem/Rubik's Cube/Cube.h
+vector
+-
+iostream
+-
+fstream
+-
+string
+-
+windows.h
+-
+
+D:/Prog_2_sem/Rubik's Cube/Menu.h
+iostream
+-
+Cube.h
+D:/Prog_2_sem/Rubik's Cube/Cube.h
+ALgo.h
+D:/Prog_2_sem/Rubik's Cube/ALgo.h
+
+D:/Prog_2_sem/Rubik's Cube/main.cpp
+iostream
+-
+vector
+-
+Menu.h
+D:/Prog_2_sem/Rubik's Cube/Menu.h
+fstream
+-
+

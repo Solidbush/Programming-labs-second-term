@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Prog_2_sem/Curcle_Buffer/Circle_Buffer.h
+
+D:/Prog_2_sem/Curcle_Buffer/main.cpp
+iostream
+-
+Circle_Buffer.h
+D:/Prog_2_sem/Curcle_Buffer/Circle_Buffer.h
+algorithm
+-
+

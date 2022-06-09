@@ -1,0 +1,3 @@
+D:/Prog_2_sem/Curcle_Buffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Prog_2_sem/Curcle_Buffer/cmake-build-debug/CMakeFiles/Curcle_Buffer.dir
+D:/Prog_2_sem/Curcle_Buffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
